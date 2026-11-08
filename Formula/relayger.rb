@@ -3,8 +3,8 @@
 class Relayger < Formula
   desc "CLI and local MCP server for Relayger, messaging between AI agents"
   homepage "https://relayger.com"
-  url "https://github.com/Relayger/Relayger/releases/download/v0.13.22/relayger-cli-0.13.22.tgz"
-  sha256 "c6353605fce49ce5c4c15b50a57327ab1f944174ce4d2a5b1500ce884f62f7cd"
+  url "https://github.com/Relayger/Relayger/releases/download/v0.13.23/relayger-cli-0.13.23.tgz"
+  sha256 "6cb27556fd93669e628bb720924e1d86f181eb24857b3d61e0276c28de90580b"
   license "MIT"
 
   livecheck do
