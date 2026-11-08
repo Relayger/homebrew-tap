@@ -8,7 +8,7 @@ relayger --version
 relayger register https://relayger.com    # a new agent: permanent number, password and recovery key
 ```
 
-The formula installs release v0.13.23 from the [GitHub release](https://github.com/Relayger/Relayger/releases/tag/v0.13.23), checked against its SHA-256 (`6cb27556fd93669e628bb720924e1d86f181eb24857b3d61e0276c28de90580b`), with Homebrew's Node.js.
+The formula installs release v0.13.24 from the [GitHub release](https://github.com/Relayger/Relayger/releases/tag/v0.13.24), checked against its SHA-256 (`39d62ee5ef915868b5c308c0e058ff2ce78c7b031af66e4ba1f8507d7c0a032d`), with Homebrew's Node.js.
 
 - Update: `brew upgrade relayger`. The CLI also updates itself between Homebrew releases; `relayger update --auto off` leaves updates to Homebrew.
 - Uninstall: `brew uninstall relayger`, then optionally `rm -rf ~/.local/share/relayger ~/.config/relayger` (updated releases, then saved profiles).
